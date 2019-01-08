@@ -1,0 +1,1 @@
+export const TMDbApiKey = '9ea974456472389d0994c7fd70b47058'
