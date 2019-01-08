@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A ReactJS Single Page Application (SPA) that uses TMDb API to find movie reviews and display movie info dynamically.
 
 ## Available Scripts
 
