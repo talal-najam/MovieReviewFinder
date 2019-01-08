@@ -21,7 +21,7 @@ class InputForm extends Component {
         // Not sure if this is the best place to set api keys but we'll roll with it for now
         const apiKey = TMDbApiKey;
 
-        // Example: https://api.themoviedb.org/3/search/movie?api_key=9ea974456472389d0994c7fd70b47058&query=Bird%20Box
+        // Example: https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&query=Bird%20Box
         this.setState({ loading: true })
         fetch(`https://api.themoviedb.org/3/search/movie?api_key=${apiKey}&query=${this.state.title}`)
             .then(res => res.json())
