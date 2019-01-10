@@ -1,0 +1,14 @@
+{
+  "main.css": "/movie-review/static/css/main.b25abdcf.chunk.css",
+  "main.js": "/movie-review/static/js/main.9c61f34d.chunk.js",
+  "main.js.map": "/movie-review/static/js/main.9c61f34d.chunk.js.map",
+  "static/js/1.c5113771.chunk.js": "/movie-review/static/js/1.c5113771.chunk.js",
+  "static/js/1.c5113771.chunk.js.map": "/movie-review/static/js/1.c5113771.chunk.js.map",
+  "runtime~main.js": "/movie-review/static/js/runtime~main.6a13d08e.js",
+  "runtime~main.js.map": "/movie-review/static/js/runtime~main.6a13d08e.js.map",
+  "static/media/spinner2.gif": "/movie-review/static/media/spinner2.584b607f.gif",
+  "static/css/main.b25abdcf.chunk.css.map": "/movie-review/static/css/main.b25abdcf.chunk.css.map",
+  "index.html": "/movie-review/index.html",
+  "precache-manifest.215468a638652d2810c3e072f6270fe5.js": "/movie-review/precache-manifest.215468a638652d2810c3e072f6270fe5.js",
+  "service-worker.js": "/movie-review/service-worker.js"
+}
