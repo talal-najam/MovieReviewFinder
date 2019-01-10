@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/MovieReviewFinder/static/css/main.b25abdcf.chunk.css"
   },
   {
-    "revision": "2d188cd8d5b30a834170375f47d7349c",
+    "revision": "103ae5fb3bdc57d7ee7199d1a711a715",
     "url": "/MovieReviewFinder/index.html"
   }
 ];
