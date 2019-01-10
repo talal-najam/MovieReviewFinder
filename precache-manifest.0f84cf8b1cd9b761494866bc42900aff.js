@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/MovieReviewFinder/static/js/runtime~main.fed4b7a5.js"
   },
   {
-    "revision": "cad8923c25cb216a09eb",
-    "url": "/MovieReviewFinder/static/js/main.cad8923c.chunk.js"
+    "revision": "bd7a3b7c6acd3f637caa",
+    "url": "/MovieReviewFinder/static/js/main.bd7a3b7c.chunk.js"
   },
   {
     "revision": "c511377187a4ae813ae6",
     "url": "/MovieReviewFinder/static/js/1.c5113771.chunk.js"
   },
   {
-    "revision": "cad8923c25cb216a09eb",
+    "revision": "bd7a3b7c6acd3f637caa",
     "url": "/MovieReviewFinder/static/css/main.a42c4d8b.chunk.css"
   },
   {
-    "revision": "5bf4d8d6786a09919929ac34451619cb",
+    "revision": "d4f3ad1f603170af0e1b486e80c34b8d",
     "url": "/MovieReviewFinder/index.html"
   }
 ];
