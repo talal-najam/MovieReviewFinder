@@ -1,5 +1,7 @@
 # A ReactJS Single Page Application (SPA) that uses TMDb API to find movie reviews and display movie info dynamically.
 
+This application is built to practice ReactJS skills with the use of an external API. It involves conditional rendering, using components with state and using modern react practices such as arrow functions (instead of binding "this" for every method). 
+
 ## Available Scripts
 
 In the project directory, you can run:
